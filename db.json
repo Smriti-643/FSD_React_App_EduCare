@@ -1,0 +1,12 @@
+{
+  "enrollments": [
+    {
+      "fullName": "Anugrahaa",
+      "email": "anu123@gmail.com",
+      "phone": "9900716924",
+      "course": "Python Programming",
+      "learningMode": "Offline",
+      "id": 1
+    }
+  ]
+}
